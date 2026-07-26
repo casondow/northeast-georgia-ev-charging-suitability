@@ -1,0 +1,13 @@
+pandas
+numpy
+geopandas
+shapely
+pyogrio
+fiona
+matplotlib
+jupyterlab
+nbconvert
+nbclient
+ipykernel
+requests
+rtree

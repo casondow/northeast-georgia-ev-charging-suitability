@@ -1,0 +1,17 @@
+name: ev-charging-gis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - nbconvert
+  - ipykernel
+  - pandas
+  - numpy
+  - geopandas
+  - shapely
+  - pyogrio
+  - fiona
+  - matplotlib
+  - requests
+  - rtree

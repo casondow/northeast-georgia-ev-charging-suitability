@@ -1,0 +1,21 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Local secrets
+.env
+*.key
+
+# Downloaded source data
+# Includes large archives, Census extracts, GeoPackages, and the OSM PBF.
+data/raw/
+
+# Reproducible generated outputs
+data/processed/
+outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
