@@ -19,6 +19,12 @@ These are planning recommendations. Exact parcels and construction designs requi
 
 ![Final Northeast Georgia EV charging network plan](maps/final_ev_charging_network_plan.png)
 
+### Local site context
+
+The regional recommendations are supplemented by neighborhood-scale screening panels. These views show nearby streets, mapped buildings, open land, waterways, and destinations around selected Level 2 proposals. They provide geographic context but do not represent verified parcel boundaries or ownership.
+
+![Neighborhood context for selected Level 2 recommendations](maps/proposed_level2_local_context.png)
+
 ## Why this project matters
 
 Public EV charging is not one uniform planning problem. Drivers need different infrastructure depending on where and why they charge:

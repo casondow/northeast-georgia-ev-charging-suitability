@@ -5,6 +5,7 @@ shapely
 pyogrio
 fiona
 matplotlib
+contextily
 jupyterlab
 nbconvert
 nbclient

@@ -13,5 +13,6 @@ dependencies:
   - pyogrio
   - fiona
   - matplotlib
+  - contextily
   - requests
   - rtree
